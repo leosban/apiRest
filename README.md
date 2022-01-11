@@ -3,4 +3,4 @@
 Usando:</br>
 **MySQL Workbench e Insomnia</br>
 CRUD</br>
-Deploy da API</br>
+Deploy da API</br>**
